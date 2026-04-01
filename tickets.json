@@ -1,0 +1,90 @@
+[
+  {
+    "id": "85a489f5-3aaa-42ff-837e-29b882771c4e",
+    "name": "kanna",
+    "email": "k25@gmail.com",
+    "issue": "bug issue",
+    "priority": "Medium",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Closed",
+    "timestamp": "2026-03-28T12:22:02.461Z"
+  },
+  {
+    "id": "750293b8-9dfb-4d6c-b739-2b53604d3aa1",
+    "name": "krish",
+    "email": "krish@gmail.com",
+    "issue": "bug\n",
+    "priority": "Medium",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Closed",
+    "timestamp": "2026-03-28T12:36:34.186Z"
+  },
+  {
+    "id": "f6723bd2-e702-4665-b717-4a3dbabbde9a",
+    "name": "k",
+    "email": "k@gmail.com",
+    "issue": "bug",
+    "priority": "Medium",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Closed",
+    "timestamp": "2026-03-28T12:39:30.845Z"
+  },
+  {
+    "id": "4f4901f8-d722-434d-ac4f-b5f32cc2fb44",
+    "name": "m",
+    "email": "n@gmail.com",
+    "issue": "bug",
+    "priority": "Medium",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Resolved",
+    "timestamp": "2026-03-28T12:51:16.061Z"
+  },
+  {
+    "id": "af9a0f04-01ec-44ea-84ba-d0ac35db909f",
+    "name": "raj",
+    "email": "raj@gmail.com",
+    "issue": "bug",
+    "priority": "Medium",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Closed",
+    "timestamp": "2026-03-28T12:55:21.006Z"
+  },
+  {
+    "id": "0e788ee9-4bf7-436d-ac90-36a1a2131d36",
+    "name": "mani",
+    "email": "mani14@gmail.com",
+    "issue": "bug",
+    "priority": "Medium",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Closed",
+    "timestamp": "2026-03-28T13:05:05.250Z"
+  },
+  {
+    "id": "ed41d4c2-742e-4998-9f7d-a6f32d7bf29e",
+    "name": "shiva",
+    "email": "Shiva@gmail.com",
+    "issue": "bug",
+    "priority": "Medium",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Closed",
+    "timestamp": "2026-03-28T15:44:07.047Z"
+  },
+  {
+    "id": "bd5ca3fe-8302-4fc7-a0d3-b46f8a9bafd6",
+    "name": "Abhi",
+    "email": "Abhi23@gmail.com",
+    "issue": "bug",
+    "priority": "Low",
+    "department": "Software Team",
+    "category": "Software Issue",
+    "status": "Open",
+    "timestamp": "2026-03-31T10:05:58.192Z"
+  }
+]
